@@ -1,6 +1,11 @@
 # Build Ur Own Python version
 
 Source: <a herf='https://www.python.org/ftp/python/'>https://www.python.org/ftp/python/</a>
+
+## Why need to build your own python?
+Do you know how MANY python version on your mac or your linux?\
+Just build your Own fav python version and stop using apt, yum and brew
+
 ```
 sudo apt update
 sudo apt install -y build-essential libpng-dev
