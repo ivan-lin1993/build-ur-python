@@ -17,5 +17,6 @@ cd ./Python-3.6.5
 ./configure 
 make
 sudo make install
+# sudo make altinstall
 ```
 
