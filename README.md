@@ -18,6 +18,7 @@ cd ./Python-3.6.5
 make
 sudo make install
 # sudo make altinstall
+# make altinstall is used to prevent replacing the default python binary file /usr/bin/python
 ```
 
 ## Uninstall
