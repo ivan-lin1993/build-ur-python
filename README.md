@@ -20,7 +20,7 @@ sudo make install
 # sudo make altinstall
 ```
 
-## Uninstlal
+## Uninstall
 You can do :
 
 1. make clean removes any intermediate or output files from your source / build tree
