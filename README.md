@@ -20,3 +20,11 @@ sudo make install
 # sudo make altinstall
 ```
 
+## Uninstlal
+You can do :
+
+1. make clean removes any intermediate or output files from your source / build tree
+1. If you can, running make uninstall will work.
+1. The last option is you have to manually uninstall it. Running make -n install
+
+Note : You must cd the file location where you make install
